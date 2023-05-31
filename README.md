@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width" />
 
-    <link rel="stylesheet" href="../../assets/styles/app.css?1685437486501" media="all" />
+    <link rel="stylesheet" href="icons.css" media="all" />
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
     
